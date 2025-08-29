@@ -1,1 +1,1 @@
-Hello world  readme
+This is repository for SSG.
